@@ -1,2 +1,2 @@
 # contact-book-application
-A simple C++ Contact Book application that allows users to add, view, search, edit, delete, and save contacts with file handling for persistent storage
+This is a simple C++ Contact Book application that enables users to manage their contacts efficiently. Users can add, view, search, edit, and delete contacts, with all changes being saved to a file for persistent storage. The project demonstrates the use of classes, file handling, and basic I/O operations in C++.
